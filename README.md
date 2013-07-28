@@ -1,4 +1,4 @@
 howdtheyvote
 ============
 
-How did a Toronto City Counsellor voted.
+How did a Toronto City Counsellor vote.
